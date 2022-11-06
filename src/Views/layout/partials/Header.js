@@ -195,7 +195,7 @@ export default function Header() {
                     onKeyPress={onKeyUp}
                   />
                   <input name="action_flag" type="hidden" value="login" />
-                  <NavLink to="/Auth/Register" style={{ color: "#01d46d" }}>
+                  <NavLink to="/Auth/Register" style={{ color: "#da251c" }}>
                     Register
                   </NavLink>
                 </div>

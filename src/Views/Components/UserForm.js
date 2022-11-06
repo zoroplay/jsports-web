@@ -103,7 +103,7 @@ export const UserForm = ({
                             name="country"
                             id="s_w_PC_PC_ddlPaese"
                             className="dropdown">
-                            <option value="160">Nigeria</option>
+                            <option value="160">Uganda</option>
                         </Field>
                     </td>
                 </tr>

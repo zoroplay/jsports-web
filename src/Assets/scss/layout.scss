@@ -28,12 +28,12 @@ $primary: #fff;
 // $primary: #191919;
 // $secondary: #343944;
 // $secondary: #da251c;
-$secondary: #01d46d;
+$secondary: #da251c;
 // $secondary: #373a42;
 // $secondary: #010914;
 // $accent: #da251c;
-$accent: #01d46d;
-$accent-alt: #01d46d;
+$accent: #da251c;
+$accent-alt: #da251c;
 
 $pure-white: #fff;
 // $alt-white: #F5F5F5;
@@ -189,7 +189,7 @@ input, select, textarea{
 .header{
   position: relative;
   border-bottom: 5px solid green;
-  background-color: #191919;
+  background-color: #fff;
   padding-bottom: 9px;
   // background-image: linear-gradient(to bottom,#3a3e47 0,#2b2e37 100%);
   // background-image: linear-gradient(to bottom,lighten($primary, 5%) 0, $primary 100%);
