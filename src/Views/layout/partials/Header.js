@@ -224,7 +224,7 @@ export default function Header() {
                     {SportsbookGlobalVariable.Currency}
                   </span>
                   <span className="uzr-b-num">
-                    {formatNumber(user.balance)}
+                    {formatNumber(user.available_balance)}
                   </span>
                 </div>
                 <div className="uzr-b">
